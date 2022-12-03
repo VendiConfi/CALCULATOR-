@@ -1,0 +1,41 @@
+.main{
+    text-align: center;
+    margin-top: 150px;
+}
+table{
+    margin:auto ;
+    
+}
+button{
+    width: 130px;
+    height: 98PX;
+    background-color:coral;
+    font-size: 40px;
+    border-radius: 20px;
+    
+    
+}
+
+input{
+    border:10px;
+    margin-bottom: 20px;
+    font-size:  42px;
+    border-color:coral;
+    border-style:outset;
+    border-radius: 20px;
+
+
+}
+.new{
+    border:12px;
+    background-color:black;
+    display:inline-block;
+    border-radius: 20px;
+    padding: 20px;
+
+
+
+}
+body{
+    background-color: dimgray;
+}
